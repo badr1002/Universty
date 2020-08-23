@@ -1,0 +1,20 @@
+@media(max-width:591px) {
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+    .startable h1 {
+        font-size: 50px;
+        color: #fff;
+        font-weight: 400;
+        padding-top: 60px;
+    }
+}
+
+@media(min-width:591px) {
+    .startable h1 {
+        font-size: 100px;
+        color: #fff;
+        font-weight: 700;
+        padding-top: 100px;
+    }
+}
